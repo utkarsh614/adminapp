@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687960500178",
+    "project_id": "adminapp-e0fe1",
+    "storage_bucket": "adminapp-e0fe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687960500178:android:bceff242698f7bdbe58a0b",
+        "android_client_info": {
+          "package_name": "com.utkarsh.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687960500178-iebpqfksu3pc0nsio4fjmobc8o5ekkvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCagA1Zyiqapk_36sCSR6vvQMufWf57ghU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687960500178-iebpqfksu3pc0nsio4fjmobc8o5ekkvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
